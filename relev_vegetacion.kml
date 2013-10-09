@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>vegetacion_9oct13</name>
+<Schema name="vegetacion_9oct13" id="vegetacion_9oct13">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Marca temporal" type="string"></SimpleField>
+	<SimpleField name="Relevada por (nombre e institución):" type="string"></SimpleField>
+	<SimpleField name="Fecha" type="string"></SimpleField>
+	<SimpleField name="Camino / Ruta / Establecimiento" type="string"></SimpleField>
+	<SimpleField name="Geoposición (lat) S:" type="float"></SimpleField>
+	<SimpleField name="Geoposición (long) W:" type="float"></SimpleField>
+	<SimpleField name="Características Topográficas:" type="string"></SimpleField>
+	<SimpleField name="Tipo de suelo" type="string"></SimpleField>
+	<SimpleField name="Tipo de vegetación" type="string"></SimpleField>
+	<SimpleField name="Especies arbóreas dominantes" type="string"></SimpleField>
+	<SimpleField name="Especies arbustivas dominantes" type="string"></SimpleField>
+	<SimpleField name="Especies graminosas dominantes" type="string"></SimpleField>
+	<SimpleField name="Estado de la vegetación graminosa con capacidad forrajera" type="string"></SimpleField>
+	<SimpleField name="Presencia de animales pastoreando" type="string"></SimpleField>
+	<SimpleField name="Observaciones" type="string"></SimpleField>
+	<SimpleField name="Fotos:" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#vegetacion_9oct13">
+		<SimpleData name="Marca temporal">30/09/2013 12:59:29</SimpleData>
+		<SimpleData name="Relevada por (nombre e institución):">Ganaderia Las Catitas</SimpleData>
+		<SimpleData name="Fecha">13/08/2013</SimpleData>
+		<SimpleData name="Camino / Ruta / Establecimiento">Camino</SimpleData>
+		<SimpleData name="Geoposición (lat) S:">-33.4143</SimpleData>
+		<SimpleData name="Geoposición (long) W:">-67.78613</SimpleData>
+		<SimpleData name="Características Topográficas:">médanos</SimpleData>
+		<SimpleData name="Tipo de suelo">arenoso</SimpleData>
+		<SimpleData name="Tipo de vegetación">Arbustal Abierto</SimpleData>
+		<SimpleData name="Especies arbóreas dominantes">chañar, alpataco</SimpleData>
+		<SimpleData name="Especies arbustivas dominantes">jarilla, llaullin, tomillo macho, piquillin albaricoque</SimpleData>
+		<SimpleData name="Especies graminosas dominantes">pasto de hoja, coiron</SimpleData>
+		<SimpleData name="Estado de la vegetación graminosa con capacidad forrajera">Mala</SimpleData>
+		<SimpleData name="Presencia de animales pastoreando">Muy pastoreado</SimpleData>
+		<SimpleData name="Observaciones">pencas</SimpleData>
+		<SimpleData name="Fotos:">113jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.78613,-33.4143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#vegetacion_9oct13">
+		<SimpleData name="Marca temporal">10/02/13 09:40</SimpleData>
+		<SimpleData name="Relevada por (nombre e institución):">Ganadería Las Catitas</SimpleData>
+		<SimpleData name="Fecha">13/08/2013</SimpleData>
+		<SimpleData name="Camino / Ruta / Establecimiento">camino</SimpleData>
+		<SimpleData name="Geoposición (lat) S:">-33.43107</SimpleData>
+		<SimpleData name="Geoposición (long) W:">-67.79028</SimpleData>
+		<SimpleData name="Características Topográficas:">médanos</SimpleData>
+		<SimpleData name="Tipo de suelo">arenoso</SimpleData>
+		<SimpleData name="Tipo de vegetación">Bosque Abierto</SimpleData>
+		<SimpleData name="Especies arbóreas dominantes">algarrobo, alpataco, retamo, chañar</SimpleData>
+		<SimpleData name="Especies arbustivas dominantes">jarilla, llaullin, tomillo, piquillin, vidriera</SimpleData>
+		<SimpleData name="Especies graminosas dominantes">pasto de hoja, coiron</SimpleData>
+		<SimpleData name="Estado de la vegetación graminosa con capacidad forrajera">Mala</SimpleData>
+		<SimpleData name="Presencia de animales pastoreando">Muy pastoreado</SimpleData>
+		<SimpleData name="Fotos:">114jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.79028,-33.43107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#vegetacion_9oct13">
+		<SimpleData name="Marca temporal">10/02/13 09:43</SimpleData>
+		<SimpleData name="Relevada por (nombre e institución):">Ganaderia Las Catitas</SimpleData>
+		<SimpleData name="Fecha">13/08/2013</SimpleData>
+		<SimpleData name="Camino / Ruta / Establecimiento">camino</SimpleData>
+		<SimpleData name="Geoposición (lat) S:">-33.42952</SimpleData>
+		<SimpleData name="Geoposición (long) W:">-67.81345</SimpleData>
+		<SimpleData name="Características Topográficas:">llanura</SimpleData>
+		<SimpleData name="Tipo de suelo">franco arcilloso</SimpleData>
+		<SimpleData name="Tipo de vegetación">Bosque Abierto</SimpleData>
+		<SimpleData name="Especies arbóreas dominantes">algarrobo, chañar, alpataco</SimpleData>
+		<SimpleData name="Especies arbustivas dominantes">vidriera, atamisque, zampa</SimpleData>
+		<SimpleData name="Especies graminosas dominantes">pasto de hoja</SimpleData>
+		<SimpleData name="Estado de la vegetación graminosa con capacidad forrajera">Mala</SimpleData>
+		<SimpleData name="Presencia de animales pastoreando">Muy pastoreado</SimpleData>
+		<SimpleData name="Fotos:">115jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.81345,-33.42952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#vegetacion_9oct13">
+		<SimpleData name="Marca temporal">10/02/13 09:55</SimpleData>
+		<SimpleData name="Relevada por (nombre e institución):">Ganaderia Las Catitas</SimpleData>
+		<SimpleData name="Fecha">13/08/2013</SimpleData>
+		<SimpleData name="Camino / Ruta / Establecimiento">camino</SimpleData>
+		<SimpleData name="Geoposición (lat) S:">-33.40917</SimpleData>
+		<SimpleData name="Geoposición (long) W:">-67.77882</SimpleData>
+		<SimpleData name="Características Topográficas:">llanura</SimpleData>
+		<SimpleData name="Tipo de suelo">franco arcilloso</SimpleData>
+		<SimpleData name="Tipo de vegetación">Bosque Cerrado</SimpleData>
+		<SimpleData name="Especies arbóreas dominantes">algarrobo, chañar</SimpleData>
+		<SimpleData name="Especies arbustivas dominantes">chilca, piquillin, zampa, llaullin, pajaro bobo</SimpleData>
+		<SimpleData name="Especies graminosas dominantes">pasto de hoja</SimpleData>
+		<SimpleData name="Estado de la vegetación graminosa con capacidad forrajera">Mala</SimpleData>
+		<SimpleData name="Presencia de animales pastoreando">Muy pastoreado</SimpleData>
+		<SimpleData name="Fotos:">112jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.77882,-33.40917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#vegetacion_9oct13">
+		<SimpleData name="Marca temporal">10/02/13 10:18</SimpleData>
+		<SimpleData name="Relevada por (nombre e institución):">Ganaderia Las Catitas</SimpleData>
+		<SimpleData name="Fecha">13/08/2013</SimpleData>
+		<SimpleData name="Camino / Ruta / Establecimiento">camino</SimpleData>
+		<SimpleData name="Geoposición (lat) S:">-33.41117</SimpleData>
+		<SimpleData name="Geoposición (long) W:">-67.86111</SimpleData>
+		<SimpleData name="Características Topográficas:">llanura</SimpleData>
+		<SimpleData name="Tipo de suelo">franco arenoso</SimpleData>
+		<SimpleData name="Tipo de vegetación">Bosque Abierto</SimpleData>
+		<SimpleData name="Especies arbóreas dominantes">chañar, algarrobo, retamo</SimpleData>
+		<SimpleData name="Especies arbustivas dominantes">llaullin, jarilla, puiquillin</SimpleData>
+		<SimpleData name="Especies graminosas dominantes">pasto de hoja</SimpleData>
+		<SimpleData name="Estado de la vegetación graminosa con capacidad forrajera">Mala</SimpleData>
+		<SimpleData name="Presencia de animales pastoreando">Muy pastoreado</SimpleData>
+		<SimpleData name="Fotos:">116</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.86111,-33.41117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#vegetacion_9oct13">
+		<SimpleData name="Marca temporal">10/02/13 10:32</SimpleData>
+		<SimpleData name="Relevada por (nombre e institución):">Ganaderia Las Catitas</SimpleData>
+		<SimpleData name="Fecha">14/08/2013</SimpleData>
+		<SimpleData name="Camino / Ruta / Establecimiento">camino</SimpleData>
+		<SimpleData name="Geoposición (lat) S:">-33.39311</SimpleData>
+		<SimpleData name="Geoposición (long) W:">-67.88606</SimpleData>
+		<SimpleData name="Características Topográficas:">llanura</SimpleData>
+		<SimpleData name="Tipo de suelo">franco arcilloso</SimpleData>
+		<SimpleData name="Tipo de vegetación">Bosque Abierto</SimpleData>
+		<SimpleData name="Especies arbóreas dominantes">chañar, algarrobo, retamo</SimpleData>
+		<SimpleData name="Especies arbustivas dominantes">zampa, vidriera, jarilla, llaullin, manca potrillo</SimpleData>
+		<SimpleData name="Especies graminosas dominantes">pasto de hoja</SimpleData>
+		<SimpleData name="Estado de la vegetación graminosa con capacidad forrajera">Mala</SimpleData>
+		<SimpleData name="Presencia de animales pastoreando">Muy pastoreado</SimpleData>
+		<SimpleData name="Fotos:">122jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.88606,-33.39311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#vegetacion_9oct13">
+		<SimpleData name="Marca temporal">10/02/13 10:38</SimpleData>
+		<SimpleData name="Relevada por (nombre e institución):">Ganaderia Las Catitas</SimpleData>
+		<SimpleData name="Fecha">16/08/2013</SimpleData>
+		<SimpleData name="Camino / Ruta / Establecimiento">camino</SimpleData>
+		<SimpleData name="Geoposición (lat) S:">-33.4538</SimpleData>
+		<SimpleData name="Geoposición (long) W:">-67.79438</SimpleData>
+		<SimpleData name="Características Topográficas:">llanura</SimpleData>
+		<SimpleData name="Tipo de suelo">franco arenoso</SimpleData>
+		<SimpleData name="Tipo de vegetación">Bosque Abierto</SimpleData>
+		<SimpleData name="Especies arbóreas dominantes">retamo, chañar, algarrobo</SimpleData>
+		<SimpleData name="Especies arbustivas dominantes">jarilla, piquillin, zampa, tomillo</SimpleData>
+		<SimpleData name="Especies graminosas dominantes">pasto de hoja</SimpleData>
+		<SimpleData name="Estado de la vegetación graminosa con capacidad forrajera">Regular</SimpleData>
+		<SimpleData name="Presencia de animales pastoreando">Muy pastoreado</SimpleData>
+		<SimpleData name="Fotos:">127</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.79438,-33.4538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#vegetacion_9oct13">
+		<SimpleData name="Marca temporal">10/02/13 10:43</SimpleData>
+		<SimpleData name="Relevada por (nombre e institución):">Ganaderia Las Catitas</SimpleData>
+		<SimpleData name="Fecha">16/08/2013</SimpleData>
+		<SimpleData name="Camino / Ruta / Establecimiento">camino</SimpleData>
+		<SimpleData name="Geoposición (lat) S:">-33.4817</SimpleData>
+		<SimpleData name="Geoposición (long) W:">-67.79935</SimpleData>
+		<SimpleData name="Características Topográficas:">llanura</SimpleData>
+		<SimpleData name="Tipo de suelo">franco arenoso</SimpleData>
+		<SimpleData name="Tipo de vegetación">Bosque Abierto</SimpleData>
+		<SimpleData name="Especies arbóreas dominantes">retamo, chañar, alpataco</SimpleData>
+		<SimpleData name="Especies arbustivas dominantes">jarilla, piquillin, zampa, llaullin</SimpleData>
+		<SimpleData name="Especies graminosas dominantes">pasto de hoja</SimpleData>
+		<SimpleData name="Estado de la vegetación graminosa con capacidad forrajera">Regular</SimpleData>
+		<SimpleData name="Presencia de animales pastoreando">Muy pastoreado</SimpleData>
+		<SimpleData name="Fotos:">128jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.79935,-33.4817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#vegetacion_9oct13">
+		<SimpleData name="Marca temporal">10/02/13 10:49</SimpleData>
+		<SimpleData name="Relevada por (nombre e institución):">Ganaderia Las Catitas</SimpleData>
+		<SimpleData name="Fecha">16/08/2013</SimpleData>
+		<SimpleData name="Camino / Ruta / Establecimiento">camino</SimpleData>
+		<SimpleData name="Geoposición (lat) S:">-33.49775</SimpleData>
+		<SimpleData name="Geoposición (long) W:">-67.81605</SimpleData>
+		<SimpleData name="Características Topográficas:">llanura</SimpleData>
+		<SimpleData name="Tipo de suelo">franco arenoso</SimpleData>
+		<SimpleData name="Tipo de vegetación">Bosque Abierto</SimpleData>
+		<SimpleData name="Especies arbóreas dominantes">alpataco, chañar</SimpleData>
+		<SimpleData name="Especies arbustivas dominantes">zampa, piquillin, usillo, jarilla</SimpleData>
+		<SimpleData name="Especies graminosas dominantes">pasto de hoja</SimpleData>
+		<SimpleData name="Estado de la vegetación graminosa con capacidad forrajera">Regular</SimpleData>
+		<SimpleData name="Presencia de animales pastoreando">Muy pastoreado</SimpleData>
+		<SimpleData name="Fotos:">129jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.81605,-33.49775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#vegetacion_9oct13">
+		<SimpleData name="Marca temporal">10/02/13 11:25</SimpleData>
+		<SimpleData name="Relevada por (nombre e institución):">Ganaderia Las Catitas</SimpleData>
+		<SimpleData name="Fecha">16/08/2013</SimpleData>
+		<SimpleData name="Camino / Ruta / Establecimiento">camino</SimpleData>
+		<SimpleData name="Geoposición (lat) S:">-33.49503</SimpleData>
+		<SimpleData name="Geoposición (long) W:">-67.84068</SimpleData>
+		<SimpleData name="Características Topográficas:">llanura</SimpleData>
+		<SimpleData name="Tipo de suelo">franco arenoso</SimpleData>
+		<SimpleData name="Tipo de vegetación">Bosque Abierto</SimpleData>
+		<SimpleData name="Especies arbóreas dominantes">chañar, algarrobo, retamo</SimpleData>
+		<SimpleData name="Especies arbustivas dominantes">usillo, zampa, atamisque, alpataco</SimpleData>
+		<SimpleData name="Especies graminosas dominantes">trichloris</SimpleData>
+		<SimpleData name="Estado de la vegetación graminosa con capacidad forrajera">Regular</SimpleData>
+		<SimpleData name="Presencia de animales pastoreando">Muy pastoreado</SimpleData>
+		<SimpleData name="Fotos:">133jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.84068,-33.49503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#vegetacion_9oct13">
+		<SimpleData name="Marca temporal">10/02/13 11:36</SimpleData>
+		<SimpleData name="Relevada por (nombre e institución):">Ganaderia Las Catitas</SimpleData>
+		<SimpleData name="Fecha">28/09/2013</SimpleData>
+		<SimpleData name="Camino / Ruta / Establecimiento">camino</SimpleData>
+		<SimpleData name="Geoposición (lat) S:">-32.53702</SimpleData>
+		<SimpleData name="Geoposición (long) W:">-67.29086</SimpleData>
+		<SimpleData name="Características Topográficas:">llanura</SimpleData>
+		<SimpleData name="Tipo de suelo">arcilloso, salitre</SimpleData>
+		<SimpleData name="Tipo de vegetación">Salitral / Peladal</SimpleData>
+		<SimpleData name="Especies arbóreas dominantes">alpataco</SimpleData>
+		<SimpleData name="Especies arbustivas dominantes">vinagrillo, zampilla, vidriera</SimpleData>
+		<SimpleData name="Especies graminosas dominantes">no existe</SimpleData>
+		<SimpleData name="Estado de la vegetación graminosa con capacidad forrajera">Mala</SimpleData>
+		<SimpleData name="Presencia de animales pastoreando">Muy pastoreado</SimpleData>
+		<SimpleData name="Observaciones">islotes de algarrobo, alpataco y jume</SimpleData>
+		<SimpleData name="Fotos:">138jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.29086,-32.53702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#vegetacion_9oct13">
+		<SimpleData name="Marca temporal">10/02/13 11:49</SimpleData>
+		<SimpleData name="Relevada por (nombre e institución):">Ganaderia Las Catitas</SimpleData>
+		<SimpleData name="Fecha">28/09/2013</SimpleData>
+		<SimpleData name="Camino / Ruta / Establecimiento">camino</SimpleData>
+		<SimpleData name="Geoposición (lat) S:">-33.5926</SimpleData>
+		<SimpleData name="Geoposición (long) W:">-67.28437</SimpleData>
+		<SimpleData name="Características Topográficas:">llanura</SimpleData>
+		<SimpleData name="Tipo de suelo">arcilloso</SimpleData>
+		<SimpleData name="Tipo de vegetación">Arbustal Abierto</SimpleData>
+		<SimpleData name="Especies arbóreas dominantes">algarrobo, alpataco, chañar</SimpleData>
+		<SimpleData name="Especies arbustivas dominantes">zampa, llaullin</SimpleData>
+		<SimpleData name="Especies graminosas dominantes">ausente</SimpleData>
+		<SimpleData name="Estado de la vegetación graminosa con capacidad forrajera">Mala</SimpleData>
+		<SimpleData name="Presencia de animales pastoreando">Muy pastoreado</SimpleData>
+		<SimpleData name="Fotos:">139jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.28437,-33.5926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#vegetacion_9oct13">
+		<SimpleData name="Marca temporal">10/02/13 12:00</SimpleData>
+		<SimpleData name="Relevada por (nombre e institución):">Ganaderia Las Catitas</SimpleData>
+		<SimpleData name="Fecha">28/09/2013</SimpleData>
+		<SimpleData name="Camino / Ruta / Establecimiento">establecimiento &quot; cacique bravo&quot;</SimpleData>
+		<SimpleData name="Geoposición (lat) S:">-32.84896</SimpleData>
+		<SimpleData name="Geoposición (long) W:">-67.42421</SimpleData>
+		<SimpleData name="Características Topográficas:">llanura</SimpleData>
+		<SimpleData name="Tipo de suelo">arenoso</SimpleData>
+		<SimpleData name="Tipo de vegetación">Arbustal Abierto</SimpleData>
+		<SimpleData name="Especies arbóreas dominantes">algarrobo, chañar, retamo</SimpleData>
+		<SimpleData name="Especies arbustivas dominantes">jarilla, usillo, atamisque, zampa, matorra, prendedor, llaullin, retamilla</SimpleData>
+		<SimpleData name="Especies graminosas dominantes">trichloris</SimpleData>
+		<SimpleData name="Estado de la vegetación graminosa con capacidad forrajera">Regular</SimpleData>
+		<SimpleData name="Presencia de animales pastoreando">Muy pastoreado</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.42421,-32.84896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#vegetacion_9oct13">
+		<SimpleData name="Marca temporal">10/02/13 12:18</SimpleData>
+		<SimpleData name="Relevada por (nombre e institución):">Ganaderia Las Catitas</SimpleData>
+		<SimpleData name="Fecha">28/09/2013</SimpleData>
+		<SimpleData name="Camino / Ruta / Establecimiento">camino</SimpleData>
+		<SimpleData name="Geoposición (lat) S:">-32.87264</SimpleData>
+		<SimpleData name="Geoposición (long) W:">-67.55512</SimpleData>
+		<SimpleData name="Características Topográficas:">medano</SimpleData>
+		<SimpleData name="Tipo de suelo">arenoso</SimpleData>
+		<SimpleData name="Tipo de vegetación">Arbustal Denso</SimpleData>
+		<SimpleData name="Especies arbóreas dominantes">algarrobo, chañar</SimpleData>
+		<SimpleData name="Especies arbustivas dominantes">zampa, matorra, prendedor, usillo, atamisque, algarrobo guanaco</SimpleData>
+		<SimpleData name="Especies graminosas dominantes">trichloris, flechilla</SimpleData>
+		<SimpleData name="Estado de la vegetación graminosa con capacidad forrajera">Regular</SimpleData>
+		<SimpleData name="Presencia de animales pastoreando">Muy pastoreado</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.55512,-32.87264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#vegetacion_9oct13">
+		<SimpleData name="Marca temporal">10/02/13 12:28</SimpleData>
+		<SimpleData name="Relevada por (nombre e institución):">Ganadería Las Catitas</SimpleData>
+		<SimpleData name="Fecha">28/09/2013</SimpleData>
+		<SimpleData name="Camino / Ruta / Establecimiento">camino</SimpleData>
+		<SimpleData name="Geoposición (lat) S:">-32.76162</SimpleData>
+		<SimpleData name="Geoposición (long) W:">-67.23387</SimpleData>
+		<SimpleData name="Características Topográficas:">medano</SimpleData>
+		<SimpleData name="Tipo de suelo">arenoso</SimpleData>
+		<SimpleData name="Tipo de vegetación">Arbustal Denso</SimpleData>
+		<SimpleData name="Especies arbóreas dominantes">algarrobo, chañar</SimpleData>
+		<SimpleData name="Especies arbustivas dominantes">zampa, atamisque, algarrobo guanaco, matorra, prendedor, usillo, albaricoque</SimpleData>
+		<SimpleData name="Especies graminosas dominantes">trichloris, flechilla</SimpleData>
+		<SimpleData name="Estado de la vegetación graminosa con capacidad forrajera">Regular</SimpleData>
+		<SimpleData name="Presencia de animales pastoreando">Muy pastoreado</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.23387,-32.76162</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
